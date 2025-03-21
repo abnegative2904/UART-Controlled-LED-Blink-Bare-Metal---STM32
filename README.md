@@ -29,6 +29,7 @@ This project demonstrates **bare-metal programming** on an **STM32 microcontroll
 ---
 
 ##  How It Works
+https://github.com/user-attachments/assets/eeee19ed-d96d-4e71-b7d6-799734db91c7
 1. **UART Setup:**  
    - STM32 initializes USART1 at **9600 baud rate**.
    - Sends a **"Ready to receive blink count"** message.
